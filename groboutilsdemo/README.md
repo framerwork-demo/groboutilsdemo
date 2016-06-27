@@ -1,4 +1,3 @@
-# spring-dynamic
-多数据源的封装实现，以Mybatis作持久层为例。 一定要记得启动aspectJ,重在思想，hibernate,JDBC类似，可以自己打成jar包
+#groboutilsdemo
 
-多数据源切换工具：spring+mybatis
+多线程单元测试的demo。测试引擎是多个线程驱动的，扩展了Junit的单线程引擎。
